@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 57f11b16b05aacc4c8406e83013dacee
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Invasion2000
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2cb57425fc9b3aa49b1a3c0df89fc64e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
